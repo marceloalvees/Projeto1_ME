@@ -1,0 +1,5 @@
+C:\Users\fabia\OneDrive\Desktop\conversorDeMoedas\conversorDeMoedas\obj\Debug\net6.0\conversorDeMoedas.csproj.AssemblyReference.cache
+C:\Users\fabia\OneDrive\Desktop\conversorDeMoedas\conversorDeMoedas\obj\Debug\net6.0\conversorDeMoedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabia\OneDrive\Desktop\conversorDeMoedas\conversorDeMoedas\obj\Debug\net6.0\conversorDeMoedas.AssemblyInfoInputs.cache
+C:\Users\fabia\OneDrive\Desktop\conversorDeMoedas\conversorDeMoedas\obj\Debug\net6.0\conversorDeMoedas.AssemblyInfo.cs
+C:\Users\fabia\OneDrive\Desktop\conversorDeMoedas\conversorDeMoedas\obj\Debug\net6.0\conversorDeMoedas.csproj.CoreCompileInputs.cache
