@@ -7,8 +7,12 @@ using System.Globalization;
 
 namespace conversorDeMoedas
 {
-    internal class Dolar 
+    internal class Dolar
     {
- 
+
     }
+   
+   
+
+   
 }
