@@ -13,14 +13,14 @@ namespace conversorDeMoedas
         {
             float dolar = 4.50F;
 
-            return (valor * dolar);
+            return (valor / dolar);
         }
 
         public float realEmIene(float valor)
         {
             float iene = 0.052F;
 
-            return (valor * iene);
+            return (valor / iene);
         }
 
 
@@ -28,14 +28,14 @@ namespace conversorDeMoedas
         {
             float libraEsterlina = 6.95F;
 
-            return (valor * libraEsterlina); ;
+            return (valor / libraEsterlina); ;
         }
 
         public float realEmEuro(float valor)
         {
             float euro = 6.20F;
 
-            return (valor * euro);
+            return (valor / euro);
         }
 
     }
