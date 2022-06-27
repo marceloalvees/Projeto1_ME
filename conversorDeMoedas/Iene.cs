@@ -7,7 +7,7 @@ using System.Globalization;
 
 namespace conversorDeMoedas
 {
-    internal class Iene : Moeda
+    internal class Iene
     {
     }
 }

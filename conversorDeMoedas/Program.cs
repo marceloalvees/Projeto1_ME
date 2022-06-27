@@ -14,6 +14,12 @@ namespace conversorDeMoedas
             Console.WriteLine("Bem-vindo(a) ao Convertor de Moedas :)");
 
 
+            //Teste para ver se funciona :)
+
+            /*Real real = new Real();
+            Console.WriteLine("Digite a quantidade a ser convertida");
+            float valor = float.Parse(Console.ReadLine());
+            Console.WriteLine(real.realEmDolar(valor));*/
         }
     }
 }

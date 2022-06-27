@@ -3,3 +3,13 @@ C:\Users\fabia\OneDrive\Desktop\conversorDeMoedas\conversorDeMoedas\obj\Debug\ne
 C:\Users\fabia\OneDrive\Desktop\conversorDeMoedas\conversorDeMoedas\obj\Debug\net6.0\conversorDeMoedas.AssemblyInfoInputs.cache
 C:\Users\fabia\OneDrive\Desktop\conversorDeMoedas\conversorDeMoedas\obj\Debug\net6.0\conversorDeMoedas.AssemblyInfo.cs
 C:\Users\fabia\OneDrive\Desktop\conversorDeMoedas\conversorDeMoedas\obj\Debug\net6.0\conversorDeMoedas.csproj.CoreCompileInputs.cache
+C:\Users\fabia\OneDrive\Desktop\conversorDeMoedas\conversorDeMoedas\bin\Debug\net6.0\conversorDeMoedas.exe
+C:\Users\fabia\OneDrive\Desktop\conversorDeMoedas\conversorDeMoedas\bin\Debug\net6.0\conversorDeMoedas.deps.json
+C:\Users\fabia\OneDrive\Desktop\conversorDeMoedas\conversorDeMoedas\bin\Debug\net6.0\conversorDeMoedas.runtimeconfig.json
+C:\Users\fabia\OneDrive\Desktop\conversorDeMoedas\conversorDeMoedas\bin\Debug\net6.0\conversorDeMoedas.dll
+C:\Users\fabia\OneDrive\Desktop\conversorDeMoedas\conversorDeMoedas\bin\Debug\net6.0\conversorDeMoedas.pdb
+C:\Users\fabia\OneDrive\Desktop\conversorDeMoedas\conversorDeMoedas\obj\Debug\net6.0\conversorDeMoedas.dll
+C:\Users\fabia\OneDrive\Desktop\conversorDeMoedas\conversorDeMoedas\obj\Debug\net6.0\refint\conversorDeMoedas.dll
+C:\Users\fabia\OneDrive\Desktop\conversorDeMoedas\conversorDeMoedas\obj\Debug\net6.0\conversorDeMoedas.pdb
+C:\Users\fabia\OneDrive\Desktop\conversorDeMoedas\conversorDeMoedas\obj\Debug\net6.0\conversorDeMoedas.genruntimeconfig.cache
+C:\Users\fabia\OneDrive\Desktop\conversorDeMoedas\conversorDeMoedas\obj\Debug\net6.0\ref\conversorDeMoedas.dll

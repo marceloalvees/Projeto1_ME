@@ -7,7 +7,7 @@ using System.Globalization;
 
 namespace conversorDeMoedas
 {
-    internal class LibraEsterlina : Moeda
+    internal class LibraEsterlina
     {
     }
 }
