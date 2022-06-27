@@ -9,5 +9,6 @@ namespace conversorDeMoedas
 {
     internal class Dolar 
     {
+ 
     }
 }
