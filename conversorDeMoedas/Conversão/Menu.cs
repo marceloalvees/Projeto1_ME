@@ -5,8 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Globalization;
 
-namespace conversorDeMoedas
-{ 
+namespace conversorDeMoedas.Conversão
+{
     internal class Menu
     {
         public void menu()
@@ -23,45 +23,51 @@ namespace conversorDeMoedas
                 {
                     Console.WriteLine("Opção invalida, tente novamente!");
                     menu();
-                } else if(opcao == 0)
+                }
+                else if (opcao == 0)
                 {
                     Console.WriteLine("Você saiu do programa, see ya!!" + Environment.NewLine);
                     break;
                 }
                 Console.WriteLine("Qual o valor você deseja converter?");
                 float valor = float.Parse(Console.ReadLine());
+                float valorReal;
 
                 switch (opcao)
                 {
-                    
-                    case 1: 
 
-                        Real.menuReal(valor);           
+                    case 1:
+
+                        Real.menuReal(valor);
                         break;
 
                     case 2:
-                        Dolar.menuDolar(valor));
+                        valorReal = valor * 5.23F;
+                        Real.menuReal(valorReal);
                         break;
 
                     case 3:
-                        Iene.menuIene(valor);
+                        valorReal = valor * 26.35F;
+                        Real.menuReal(valorReal);
                         break;
 
                     case 4:
-                        LibraEsterlina.menuLibraEsterlina(valor);
+                        valorReal = valor * 0.16F;
+                        Real.menuReal(valorReal);
                         break;
 
                     case 5:
-                        Euro.menuEuro(valor);
+                        valorReal = valor * 0.18F;
+                        Real.menuReal(valorReal);
                         break;
 
 
 
                 }
 
-            }while (opcao != 0);
-            
+            } while (opcao != 0);
+
         }
-        
+
     }
 }
