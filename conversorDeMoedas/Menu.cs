@@ -36,12 +36,13 @@ namespace conversorDeMoedas
                     
                     case 1: 
 
-                        Real.menuReal(valor);
-                       
+                        Real.menuReal(valor);           
                         break;
+
                     case 2:
-                        //Console.WriteLine(Dolar.menuDolar(valor));
+                        Dolar.menuDolar(valor));
                         break;
+
                     case 3:
                         Iene.menuIene(valor);
                         break;

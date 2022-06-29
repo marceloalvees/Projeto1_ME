@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\marceloa\\.nuget\\packages\\": {}
+    "C:\\Users\\DiverseDev\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marceloa\\Desktop\\DH\\Projeto Me1\\Projeto1_ME\\moedas\\moedas\\moedas.csproj",
+      "projectUniqueName": "C:\\Users\\DiverseDev\\Desktop\\Atividades\\Checkpoint\\moedas\\moedas\\moedas.csproj",
       "projectName": "moedas",
-      "projectPath": "C:\\Users\\marceloa\\Desktop\\DH\\Projeto Me1\\Projeto1_ME\\moedas\\moedas\\moedas.csproj",
-      "packagesPath": "C:\\Users\\marceloa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marceloa\\Desktop\\DH\\Projeto Me1\\Projeto1_ME\\moedas\\moedas\\obj\\",
+      "projectPath": "C:\\Users\\DiverseDev\\Desktop\\Atividades\\Checkpoint\\moedas\\moedas\\moedas.csproj",
+      "packagesPath": "C:\\Users\\DiverseDev\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\DiverseDev\\Desktop\\Atividades\\Checkpoint\\moedas\\moedas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\marceloa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\DiverseDev\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
