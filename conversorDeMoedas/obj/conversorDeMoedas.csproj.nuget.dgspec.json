@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marceloa\\Desktop\\DH\\Projeto Me1\\Projeto1_ME\\conversorDeMoedas\\conversorDeMoedas.csproj": {}
+    "C:\\Users\\marceloa\\Desktop\\DH\\Projeto Me1\\Projeto1_ME\\Projeto1_ME\\conversorDeMoedas\\conversorDeMoedas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marceloa\\Desktop\\DH\\Projeto Me1\\Projeto1_ME\\conversorDeMoedas\\conversorDeMoedas.csproj": {
+    "C:\\Users\\marceloa\\Desktop\\DH\\Projeto Me1\\Projeto1_ME\\Projeto1_ME\\conversorDeMoedas\\conversorDeMoedas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marceloa\\Desktop\\DH\\Projeto Me1\\Projeto1_ME\\conversorDeMoedas\\conversorDeMoedas.csproj",
+        "projectUniqueName": "C:\\Users\\marceloa\\Desktop\\DH\\Projeto Me1\\Projeto1_ME\\Projeto1_ME\\conversorDeMoedas\\conversorDeMoedas.csproj",
         "projectName": "conversorDeMoedas",
-        "projectPath": "C:\\Users\\marceloa\\Desktop\\DH\\Projeto Me1\\Projeto1_ME\\conversorDeMoedas\\conversorDeMoedas.csproj",
+        "projectPath": "C:\\Users\\marceloa\\Desktop\\DH\\Projeto Me1\\Projeto1_ME\\Projeto1_ME\\conversorDeMoedas\\conversorDeMoedas.csproj",
         "packagesPath": "C:\\Users\\marceloa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marceloa\\Desktop\\DH\\Projeto Me1\\Projeto1_ME\\conversorDeMoedas\\obj\\",
+        "outputPath": "C:\\Users\\marceloa\\Desktop\\DH\\Projeto Me1\\Projeto1_ME\\Projeto1_ME\\conversorDeMoedas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\marceloa\\AppData\\Roaming\\NuGet\\NuGet.Config",
